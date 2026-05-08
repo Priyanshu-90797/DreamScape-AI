@@ -152,7 +152,7 @@ This project is licensed under the MIT License.
 
 **Priyanshu Khandelwal**
 
-* GitHub: [https://github.com/Ritti902](https://github.com/Ritti902)
+* GitHub: https://github.com/Priyanshu-90797
 
 ---
 
