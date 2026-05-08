@@ -1,119 +1,161 @@
-DreamScape AI 🌌
-Turning Emotions into Cinematic Experiences with AI
+# 🌌 DreamScape AI
 
-DreamScape AI is an advanced AI-powered cinematic generation platform that transforms user emotions and prompts into visually immersive cinematic experiences using artificial intelligence, dynamic multimedia processing, and intelligent audio integration.
+DreamScape AI is an AI-powered creative platform that transforms imagination into reality using modern AI technologies. It enables users to generate stunning visuals, creative content, and intelligent interactions through an intuitive and responsive interface.
 
-The platform combines emotion analysis, AI-generated visuals, cinematic video processing, and background music generation into one seamless creative pipeline.
+---
 
-🌟 Key Features
-🎭 Emotion & Sentiment Analysis
-🖼️ AI-Powered Image Generation
-🎥 Cinematic Video Creation
-🎵 Dynamic Background Music Integration
-🌧️ Mood-Based Visual Storytelling
-🌌 Fantasy, Cyberpunk, Anime & Nature Themes
-⚡ High-Performance FastAPI Backend
-⚛️ Modern React + Vite Frontend
-🎬 Automatic Video & Audio Synchronization
-📽️ Cinematic Footage Fetching using Pexels API
-🎨 Intelligent Prompt Engineering Pipeline
+# 🚀 Features
 
-🛠️ Technology Stack
-Frontend--
-React.js
-Vite
-Axios
-Tailwind CSS
+* ✨ AI-powered content generation
+* 🎨 Creative image and visual generation
+* 💬 Interactive and user-friendly interface
+* ⚡ Fast and responsive performance
+* 🔒 Secure authentication and data handling
+* 📱 Fully responsive design
+* ☁️ Cloud-ready deployment support
 
-Backend--
-FastAPI
-Python
-MoviePy
-Pillow
-NumPy
-yt-dlp
+---
 
-AI & Multimedia Tools--
-Stable Diffusion
-FFmpeg
-Pexels API
-AI Prompt Engineering
-Multimedia Processing Pipelines
+# 🛠️ Tech Stack
 
-📂 Project Architecture
-DreamScape-AI/
+## Frontend
+
+* React.js
+* Tailwind CSS
+* JavaScript / TypeScript
+
+## Backend
+
+* Node.js
+* Express.js
+
+## Database
+
+* MongoDB
+
+## AI & APIs
+
+* OpenAI API
+* REST APIs
+
+## Tools & Deployment
+
+* Git & GitHub
+* Vercel / Netlify / Render
+
+---
+
+# 📂 Project Structure
+
+```bash
+Dream-Scape-AI/
 │
-├── backend/
-│   ├── src/
-│   │   ├── ai_core/
-│   │   ├── routes/
-│   │   ├── services/
-│   │   └── utils/
-│   │
-│   ├── outputs/
-│   ├── requirements.txt
-│   └── main.py
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── README.md
-└── .gitignore
+├── client/             # Frontend source code
+├── server/             # Backend source code
+├── public/             # Static files
+├── src/                # Main application logic
+├── assets/             # Images and media
+├── package.json
+└── README.md
+```
 
-🌌 How DreamScape AI Works
-User Prompt
-      ↓
-Emotion Detection
-      ↓
-AI Prompt Engineering
-      ↓
-Image Generation
-      ↓
-Cinematic Video Fetching
-      ↓
-Background Music Generation
-      ↓
-Video + Audio Synchronization
-      ↓
-Final Cinematic Experience
+---
 
-🌄 Cinematic Prompt Examples
+# ⚙️ Installation
 
-🌧️ Cozy Rain
-A cozy rainy night in Tokyo with neon reflections, cinematic atmosphere, ultra detailed, relaxing mood, 4k
+## Clone the Repository
 
-🏔️ Fantasy Mountains
-Massive snowy mountains above the clouds during golden sunrise, cinematic drone shot, atmospheric fog, breathtaking scenery, ultra realistic
+```bash
+git clone https://github.com/Ritti902/Dream-Scape-AI.git
+```
 
-🌌 Cyberpunk City
-A futuristic cyberpunk city with neon holograms, flying cars, cinematic lighting, ultra realistic atmosphere, 4k
+## Navigate to the Project
 
-🌿 Peaceful Nature
-A peaceful mountain lake during sunrise with soft wind, birds flying, cinematic slow motion, calming atmosphere, ultra realistic
+```bash
+cd Dream-Scape-AI
+```
 
-📦 Requirements
-Python 3.10+
-Node.js
-FFmpeg
-Git
+## Install Dependencies
 
-📈 Future Enhancements
-Real AI Video Generation
-Stable Video Diffusion Integration
-Runway ML Integration
-AI Voice Narration
-Real-Time Rendering
-Cloud Deployment
-User Authentication
-Advanced Cinematic Effects
-Multi-language Support
+```bash
+npm install
+```
 
-🤝 Contributing
-Contributions, suggestions, and improvements are welcome.
+## Start the Development Server
 
-👨‍💻 Author
-Priyanshu Khandelwal
-AI Enthusiast • Full Stack Developer • Data Science & AI Explorer
+```bash
+npm run dev
+```
+
+---
+
+# 🔑 Environment Variables
+
+Create a `.env` file in the root directory and add the following:
+
+```env
+OPENAI_API_KEY=your_api_key
+MONGODB_URI=your_database_url
+PORT=5000
+```
+
+---
+
+# 📸 Screenshots
+
+Add your project screenshots here.
+
+```md
+![Home Page](./assets/home.png)
+```
+
+---
+
+# 🧠 How It Works
+
+1. User enters a creative prompt.
+2. AI processes the input.
+3. Generated content is returned in real time.
+4. Users can view, download, or share the results.
+
+---
+
+# 🎯 Future Improvements
+
+* Voice prompt support
+* AI chat assistant integration
+* Multi-language support
+* User profile and history
+* Advanced image editing tools
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👩‍💻 Author
+
+**Ritika Chawla**
+
+* GitHub: [https://github.com/Ritti902](https://github.com/Ritti902)
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub and support the project!
