@@ -150,7 +150,7 @@ This project is licensed under the MIT License.
 
 # 👩‍💻 Author
 
-**Ritika Chawla**
+**Priyanshu Khandelwal**
 
 * GitHub: [https://github.com/Ritti902](https://github.com/Ritti902)
 
